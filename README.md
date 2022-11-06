@@ -16,3 +16,5 @@
   - https://www.electronics-tutorials.ws/blog/7-segment-display-tutorial.html
 - Power Supply 5V
   - https://www.amazon.ca/gp/product/B09KMGJG56/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+
+<!-- ![Alt text](relative/path/to/img.jpg?raw=true "Title") -->
